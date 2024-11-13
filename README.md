@@ -1,4 +1,4 @@
-# RandomNumberGenerator
+# Random Number Generator C++ Code
 
 Code Explanation
 
