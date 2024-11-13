@@ -2,13 +2,13 @@
 
 
 
-#include <iostream>
-#include <ctime>
-#include <cstdlib>
+include <iostream>
+include <ctime>
+include <cstdlib>
 
 include <iostream>: Includes the standard input/output stream library, allowing the use of std::cout for printing to the console.
-#include <ctime>: Includes the time library, which provides functions related to date and time, such as std::time.
-#include <cstdlib>: Includes the C standard library, which contains the std::rand() and std::srand() functions for random number generation.
+include <ctime>: Includes the time library, which provides functions related to date and time, such as std::time.
+include <cstdlib>: Includes the C standard library, which contains the std::rand() and std::srand() functions for random number generation.
 
 
 int main(){
